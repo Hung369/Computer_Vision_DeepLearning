@@ -7,7 +7,7 @@ This repo is about all deep learning exercises using PyTorch and Tensorflow
 All tasks have been done in this repo:
 - Linear Regression.
 - Feed Forward Neural Network.
-- CNN.
+- CNN, RNN, LSTM.
 - Transfer Learning.
 - Style Transfer Learning.
 - Object Detection and Object Localization.
